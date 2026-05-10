@@ -4,8 +4,11 @@
 Analysis of 110,527 patient appointments to identify the key drivers of 
 no-show behavior across a healthcare clinic network.
 
-## Live Dashboard
-👉 [View on Tableau Public](https://public.tableau.com/app/profile/olivia.bonnette/viz/HealthcareAppointmentAttendanceAnalyticsDashboard/Dashboard1)
+## Dashboard
+
+<img width="2798" height="1798" alt="Dashboard 1" src="https://github.com/user-attachments/assets/92e4aa6c-7d74-4dab-8002-ee6a977ade31" />
+
+[View on Tableau Public](https://public.tableau.com/app/profile/olivia.bonnette/viz/HealthcareAppointmentAttendanceAnalyticsDashboard/Dashboard1)
 
 ## Business Questions Answered
 - What is the overall no-show rate across appointments?
